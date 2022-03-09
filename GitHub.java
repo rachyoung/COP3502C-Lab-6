@@ -6,6 +6,6 @@ public class GitHub {
 
         int num1   = scnr.nextInt();
         int num2   = scnr.nextInt();
-        int result = num1 + num2;
+        int result = num1 - num2;
     }
 }
